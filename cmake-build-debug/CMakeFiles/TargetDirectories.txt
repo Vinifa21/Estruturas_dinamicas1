@@ -1,0 +1,3 @@
+C:/Users/azaza/OneDrive/Área de Trabalho/UFSCar/2° Semestre/AED1/Estruturas_dinamicas/cmake-build-debug/CMakeFiles/Estruturas_dinamicas.dir
+C:/Users/azaza/OneDrive/Área de Trabalho/UFSCar/2° Semestre/AED1/Estruturas_dinamicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azaza/OneDrive/Área de Trabalho/UFSCar/2° Semestre/AED1/Estruturas_dinamicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

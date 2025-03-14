@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Estruturas_dinamicas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Estruturas_dinamicas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Estruturas_dinamicas-Debug-243eb869d534112b0542.json",
+					"name" : "Estruturas_dinamicas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/azaza/OneDrive/\u00c1rea de Trabalho/UFSCar/2\u00b0 Semestre/AED1/Estruturas_dinamicas/cmake-build-debug",
+		"source" : "C:/Users/azaza/OneDrive/\u00c1rea de Trabalho/UFSCar/2\u00b0 Semestre/AED1/Estruturas_dinamicas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
